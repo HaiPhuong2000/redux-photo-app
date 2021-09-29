@@ -41,7 +41,7 @@ function PhotoForm(props) {
 
         return (
           <Form>
-            <FastField name="title" component={InputField} label="Title" placeholder="Eg: Wow nature ..." />
+            <FastField name="title" component={InputField} label="Title" placeholder="Eg: Wow city ..." />
 
             <FastField
               name="categoryId"
